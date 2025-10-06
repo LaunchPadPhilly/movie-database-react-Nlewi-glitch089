@@ -3,31 +3,31 @@
 When you are ready to start your project, check these boxes and and add this file to Beacon.
 
 **I have reviewed and understand:**
-- [ ] The project [overview](./overview.md)
-    - [ ] The Beacon Requirements
-- [ ] The [problem statement](./00-problem.md) and user needs
-- [ ] The complete [project scope](./01-project-scope.md) and requirements
-- [ ] The [wireframes and visual design](./02-wireframes-overview.md)
-- [ ] Created the [Project Board/Cards](./03-trello-project-board-guide.md)
+- [x] The project [overview](./overview.md)
+    - [x] The Beacon Requirements
+- [x] The [problem statement](./00-problem.md) and user needs
+- [x] The complete [project scope](./01-project-scope.md) and requirements
+- [x] The [wireframes and visual design](./02-wireframes-overview.md)
+- [x] Created the [Project Board/Cards](./03-trello-project-board-guide.md)
 
 **I have prepared:**
-- [ ] My development environment (Node.js, VS Code, etc.)
-- [ ] An OMDb API key
-- [ ] Reviewed the wireframe images in the img/ folder
+- [x] My development environment (Node.js, VS Code, etc.)
+- [x] An OMDb API key
+- [x] Reviewed the wireframe images in the img/ folder
 
 ### Deliverables Checklist
 
 **Code Artifacts:**
-- [ ] GitHub repository with complete source code
-- [ ] README.md with setup and deployment instructions
-- [ ] Inline code documentation (JSDoc comments)
-- [ ] .env.example for environment variable template
-- [ ] Test suite with ≥ 70% coverage
+- [x] GitHub repository with complete source code
+- [x] README.md with setup and deployment instructions
+- [x] Inline code documentation (JSDoc comments)
+- [x] .env.example for environment variable template
+- [x] Test suite with ≥ 70% coverage
 
 **Project Management Artifacts:**
-- [ ] Trello board with all tasks and sprints
-- [ ] Sprint retrospectives (lessons learned)
-- [ ] Time tracking (estimated vs. actual)
+- [x] Trello board with all tasks and sprints
+- [x] Sprint retrospectives (lessons learned)
+- [x] Time tracking (estimated vs. actual)
 
 **Design Artifacts:**
 - [ ] Wireframes (Excalidraw/Figma)
