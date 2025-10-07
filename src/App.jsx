@@ -4,6 +4,7 @@ import AppShell from './components/AppShell';
 import SearchPage from './pages/SearchPage';
 import MovieDetailPage from './pages/MovieDetailPage';
 import FavoritesPage from './pages/FavoritesPage';
+import ErrorBoundary from './components/ErrorBoundary';
 import './index.css';
 
 const queryClient = new QueryClient({
@@ -16,9 +17,10 @@ const queryClient = new QueryClient({
 });
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
+     <ErrorBoundary>
     <QueryClientProvider client={queryClient}>
       <Router>
         <AppShell>
@@ -30,6 +32,7 @@ function App() {
         </AppShell>
       </Router>
     </QueryClientProvider>
+    </ErrorBoundary>
   );
 }
 
