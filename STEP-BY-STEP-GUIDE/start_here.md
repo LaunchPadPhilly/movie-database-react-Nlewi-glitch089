@@ -30,7 +30,7 @@ When you are ready to start your project, check these boxes and and add this fil
 - [x] Time tracking (estimated vs. actual)
 
 **Design Artifacts:**
-- [ ] Wireframes (Excalidraw/Figma)
+- [X] Wireframes (Excalidraw/Figma)
 - [ ] Component hierarchy diagram
 - [ ] Data flow diagram
 
